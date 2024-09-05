@@ -1,7 +1,7 @@
 ## 🌈 Hi, I'm Tilde (they/them)
 
 ### Bio
-Tilde Thurium is a San Francisco based artist, activist, and engineer. By day they are a free and open source software advocate at [deepset](https://www.deepset.ai/). They can probably deadlift more than you. Ask them about how to paint an algorithm, the intersections between mutual aid and biology, or which coast has the best vegan croissants.
+Tilde Thurium is a San Francisco based artist, activist, and engineer. By day they are a Senior Developer Educator at [LaunchDarkly](https://www.launchdarkly.com/). They can probably deadlift more than you. Ask them about how to paint an algorithm, the intersections between mutual aid and biology, or which coast has the best vegan croissants.
 
 ### some of my favorite presentations
 - [To rewrite or not to rewrite: an OSS community journey in the LLMiverse](https://www.youtube.com/watch?v=25LElzXFMHg): North Bay Python, 2024
