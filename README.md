@@ -4,7 +4,7 @@
 Tilde Thurium is a San Francisco based artist, activist, and engineer. By day they lead the developer relations team at [LaunchDarkly](https://www.launchdarkly.com/). They can probably deadlift more than you. Ask them about how to paint an algorithm, the intersections between mutual aid and biology, or which coast has the best vegan croissants.
 
 ### some favorite presentations
-- [Prompt engineering & bias: what we know so far](https://www.youtube.com/watch?v=pgF98Xm-xkE). OpenAI Dev Day, 2024
+- [Prompt engineering & bias: what we know so far](https://www.youtube.com/watch?v=pgF98Xm-xkE): OpenAI Dev Day, 2024
 - [To rewrite or not to rewrite: an OSS community journey in the LLMiverse](https://www.youtube.com/watch?v=25LElzXFMHg): North Bay Python, 2024
 - [Declarative APIs in an imperative world](https://www.youtube.com/watch?v=e0np8gLRWto): Strangeloop 2019
 - [7 things you won't believe Atom Editor can do](https://www.youtube.com/watch?v=8VsbNHOPQbI): GitHub Universe 2018
