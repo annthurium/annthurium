@@ -15,7 +15,6 @@ Tilde Thurium is an Oakland based artist, activist, and engineer. They can proba
 - [Detecting vaccine misinformation in a custom Bluesky feed](https://launchdarkly.com/blog/bluesky-custom-feed-llm-feature-flag/)
 - [Building a Healthcare Chatbot with Mixtral 8x7b, Haystack, and PubMed](https://haystack.deepset.ai/blog/mixtral-8x7b-healthcare-chatbot)
 - [7 Cool APIs you didn't know you needed](https://www.twilio.com/en-us/blog/cool-apis)
-- [10 HTTP status codes that sound like relationship problems](https://www.twilio.com/en-us/blog/http-status-codes-relationship-problems)
 - [Running a hackathon that sparks developer innovation](https://www.infoq.com/articles/hackathon-developer-innovation/)
 
 ### Here's where you can find Tilde elsewhere on the Internet:
