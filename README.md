@@ -1,7 +1,7 @@
 ## 🌈 Hi, I'm Tilde (they/them)
 
 ### Bio
-Tilde Thurium is an Oakland based artist, activist, and engineer. They can probably deadlift more than you. Ask them about how to paint an algorithm, the intersections between mutual aid and biology, or which coast has the best vegan croissants.
+Tilde Thurium is a San Francisco based artist, activist, and engineer. They can probably deadlift more than you. Ask them about how to paint an algorithm, the intersections between mutual aid and biology, or which coast has the best vegan croissants.
 
 ### some favorite presentations
 - [Prompt engineering & bias: what we know so far](https://www.youtube.com/watch?v=pgF98Xm-xkE): OpenAI Dev Day, 2024
